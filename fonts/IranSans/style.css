@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'IranSans';
+  src: url("IRANSansWeb.woff") format("woff");
+  font-weight: normal; }
+@font-face {
+  font-family: 'IranSans';
+  src: url("IRANSansWeb_UltraLight.woff") format("woff");
+  font-weight: 100; }
+@font-face {
+  font-family: 'IranSans';
+  src: url("IRANSansWeb_Light.woff") format("woff");
+  font-weight: 300; }
+@font-face {
+  font-family: 'IranSans';
+  src: url("IRANSansWeb_Medium.woff") format("woff");
+  font-weight: 500; }
+@font-face {
+  font-family: 'IranSans';
+  src: url("IRANSansWeb_Bold.woff") format("woff");
+  font-weight: bold; }
