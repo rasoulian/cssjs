@@ -1,10 +1,10 @@
 @font-face{
     font-family:Yekan;font-style:normal;font-weight:700;
-    src:url(YekanWebbold.eot);
-    src:url(YekanWebbold.eot?#iefix) format("embedded-opentype"),
-        url(YekanWebbold.woff2) format("woff2"),
-        url(YekanWebbold.woff) format("woff"),
-        url(YekanWebbold.ttf) format("truetype")}
+    src:url(YekanWebBold.eot);
+    src:url(YekanWebBold.eot?#iefix) format("embedded-opentype"),
+        url(YekanWebBold.woff2) format("woff2"),
+        url(YekanWebBold.woff) format("woff"),
+        url(YekanWebBold.ttf) format("truetype")}
 
 @font-face{font-family:Yekan;font-style:normal;font-weight:300;
     src:url(YekanWebLight.eot);
