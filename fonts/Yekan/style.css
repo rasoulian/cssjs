@@ -1,9 +1,22 @@
 @font-face{
-    font-family:'Yekan';
-    src:url(Yekan.woff);
-    src:url(Yekan.eot?#iefix) format("embedded-opentype"),
-    url(Yekan.woff) format("woff"),url(Yekan.ttf) 
-    format("truetype"),url(Yekan.svg#BYekan) format("svg");
-    font-weight:normal;
-    font-style:normal
+    font-family:Yekan;font-style:normal;font-weight:700;
+    src:url(/fonts/yekanwebbold.eot);
+    src:url(/fonts/yekanwebbold.eot?#iefix) format("embedded-opentype"),
+        url(/fonts/yekanwebbold.woff2) format("woff2"),
+        url(/fonts/yekanwebbold.woff) format("woff"),
+        url(/fonts/yekanwebbold.ttf) format("truetype")}
+
+@font-face{font-family:Yekan;font-style:normal;font-weight:300;
+    src:url(/fonts/yekanweblight.eot);
+    src:url(/fonts/yekanweblight.eot?#iefix) format("embedded-opentype"),
+        url(/fonts/yekanweblight.woff2) format("woff2"),
+        url(/fonts/yekanweblight.woff) format("woff"),
+        url(/fonts/yekanweblight.ttf) format("truetype")}
+
+@font-face{font-family:Yekan;font-style:normal;font-weight:400;
+    src:url(/fonts/yekanwebregular.eot);
+    src:url(/fonts/yekanwebregular.eot?#iefix) format("embedded-opentype"),
+        url(/fonts/yekanwebregular.woff2) format("woff2"),
+        url(/fonts/yekanwebregular.woff) format("woff"),
+        url(/fonts/yekanwebregular.ttf) format("truetype")
 }
