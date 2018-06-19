@@ -1,22 +1,22 @@
 @font-face{
     font-family:Yekan;font-style:normal;font-weight:700;
-    src:url(yekanwebbold.eot);
-    src:url(yekanwebbold.eot?#iefix) format("embedded-opentype"),
-        url(yekanwebbold.woff2) format("woff2"),
-        url(yekanwebbold.woff) format("woff"),
-        url(yekanwebbold.ttf) format("truetype")}
+    src:url(YekanWebbold.eot);
+    src:url(YekanWebbold.eot?#iefix) format("embedded-opentype"),
+        url(YekanWebbold.woff2) format("woff2"),
+        url(YekanWebbold.woff) format("woff"),
+        url(YekanWebbold.ttf) format("truetype")}
 
 @font-face{font-family:Yekan;font-style:normal;font-weight:300;
-    src:url(yekanweblight.eot);
-    src:url(yekanweblight.eot?#iefix) format("embedded-opentype"),
-        url(yekanweblight.woff2) format("woff2"),
-        url(yekanweblight.woff) format("woff"),
-        url(yekanweblight.ttf) format("truetype")}
+    src:url(YekanWebLight.eot);
+    src:url(YekanWebLight.eot?#iefix) format("embedded-opentype"),
+        url(YekanWebLight.woff2) format("woff2"),
+        url(YekanWebLight.woff) format("woff"),
+        url(YekanWebLight.ttf) format("truetype")}
 
 @font-face{font-family:Yekan;font-style:normal;font-weight:400;
-    src:url(yekanwebregular.eot);
-    src:url(yekanwebregular.eot?#iefix) format("embedded-opentype"),
-        url(yekanwebregular.woff2) format("woff2"),
-        url(yekanwebregular.woff) format("woff"),
-        url(yekanwebregular.ttf) format("truetype")
+    src:url(YekanWebRegular.eot);
+    src:url(YekanWebRegular.eot?#iefix) format("embedded-opentype"),
+        url(YekanWebRegular.woff2) format("woff2"),
+        url(YekanWebRegular.woff) format("woff"),
+        url(YekanWebRegular.ttf) format("truetype")
 }
