@@ -3,4 +3,5 @@ html { margin: 0;padding: 0; }
 body *{ font-family: Yekan,Tahoma,"DejaVu Sans",helvetica,arial,freesans,sans-serif; } 
 section { display: grid; grid-template-columns: auto auto; gap: 1rem 1rem; margin: 2rem; }
 article { border: 0.2rem #87a6ff solid; border-radius: 1rem;padding: 1rem; display: flex; justify-content: center; align-items: center;min-height: 20rem; }
-pre { border: 0.2rem #87a6ff solid; margin: 2rem; text-align: center; min-height: 2rem; padding: 2rem 0; }
+pre { border:0.2rem #87a6ff solid; margin: 2rem; text-align: center; min-height: 2rem; padding: 2rem 0; }
+img { width:20rem; }
