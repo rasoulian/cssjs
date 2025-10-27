@@ -1,7 +1,7 @@
 * { margin: 0;padding: 0; }
 html { margin: 0;padding: 0; }
 html { margin: 0;padding: 0; }
-body { padding: 4rem;min-width: 70rem; }
+body { padding: 4rem;width: 70rem; }
 body *{ font-family: Yekan,Tahoma,"DejaVu Sans",helvetica,arial,freesans,sans-serif; } 
 section { display: grid; grid-template-columns: auto auto; gap: 1rem 1rem; }
 article { border: 0.2rem #87a6ff solid; border-radius: 1rem; display: flex; justify-content: center; align-items: center;min-height: 20rem; }
