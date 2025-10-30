@@ -18,3 +18,25 @@
   font-family: 'IranSans';
   src: url("IRANSansWeb_Bold.woff") format("woff");
   font-weight: bold; }
+
+@font-face {
+  font-family: 'IranSansFaNum';
+  src: url("IRANSansWeb(FaNum).woff") format("woff");
+  font-weight: normal; }
+@font-face {
+  font-family: 'IranSansFaNum';
+  src: url("IRANSansWeb(FaNum)_UltraLight.woff") format("woff");
+  font-weight: 100; }
+@font-face {
+  font-family: 'IranSansFaNum';
+  src: url("IRANSansWeb(FaNum)_Light.woff") format("woff");
+  font-weight: 300; }
+@font-face {
+  font-family: 'IranSansFaNum';
+  src: url("IRANSansWeb(FaNum)_Medium.woff") format("woff");
+  font-weight: 500; }
+@font-face {
+  font-family: 'IranSansFaNum';
+  src: url("IRANSansWeb(FaNum)_Bold.woff") format("woff");
+  font-weight: bold; }
+
